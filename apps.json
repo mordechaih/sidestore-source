@@ -2,6 +2,35 @@
   "name": "Side Projects",
   "identifier": "io.github.mordechaih.sidestore",
   "sourceURL": "https://raw.githubusercontent.com/mordechaih/sidestore-source/main/apps.json",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Sleepulent",
+      "bundleIdentifier": "dev.sleepulent.app",
+      "developerName": "mordechaih",
+      "localizedDescription": "Fall asleep to podcasts, slowed down.",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "202611241429",
+          "date": "2026-11-24T14:29:51Z",
+          "localizedDescription": "Initial build (main @ d5315e4)",
+          "downloadURL": "https://github.com/mordechaih/sidestore-source/releases/download/dev.sleepulent.app-1.0-202611241429/Sleepulent-1.0-202611241429.ipa",
+          "size": 56351757,
+          "sha256": "d3d7b243b899f578af357e90b164fe92681bb6b1ae052c1662fcb96127d10a60",
+          "minOSVersion": "27.0"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/mordechaih/sidestore-source/main/icons/dev.sleepulent.app.png",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "1.0",
+      "versionDate": "2026-11-24T14:29:51Z",
+      "versionDescription": "Initial build (main @ d5315e4)",
+      "downloadURL": "https://github.com/mordechaih/sidestore-source/releases/download/dev.sleepulent.app-1.0-202611241429/Sleepulent-1.0-202611241429.ipa",
+      "size": 56351757
+    }
+  ],
   "news": []
 }
