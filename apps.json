@@ -30,6 +30,38 @@
       "versionDescription": "Initial build (main @ d5315e4)",
       "downloadURL": "https://github.com/mordechaih/sidestore-source/releases/download/dev.sleepulent.app-1.0-202611241429/Sleepulent-1.0-202611241429.ipa",
       "size": 56351757
+    },
+    {
+      "name": "Thingulent",
+      "bundleIdentifier": "com.thingulent.ios",
+      "developerName": "mordechaih",
+      "localizedDescription": "Thingulent",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "202611241947",
+          "date": "2026-11-24T19:47:11Z",
+          "localizedDescription": "Rows and cards: truncate row titles again, fade into the wrapping card — https://github.com/mordechaih/Thingulent/pull/17",
+          "downloadURL": "https://github.com/mordechaih/sidestore-source/releases/download/com.thingulent.ios-1.0-202611241947/Thingulent-1.0-202611241947.ipa",
+          "size": 4817409,
+          "sha256": "eeb1bdf7ebdf615e914284af28430d94401b4132dd3a8d6de7ad193dddb87863",
+          "minOSVersion": "26.0"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/mordechaih/sidestore-source/main/icons/com.thingulent.ios.png",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCalendarsFullAccessUsageDescription": "Thingulent shows your calendar events next to your to-dos so you can plan your day around them."
+        }
+      },
+      "version": "1.0",
+      "versionDate": "2026-11-24T19:47:11Z",
+      "versionDescription": "Rows and cards: truncate row titles again, fade into the wrapping card — https://github.com/mordechaih/Thingulent/pull/17",
+      "downloadURL": "https://github.com/mordechaih/sidestore-source/releases/download/com.thingulent.ios-1.0-202611241947/Thingulent-1.0-202611241947.ipa",
+      "size": 4817409
     }
   ],
   "news": []
